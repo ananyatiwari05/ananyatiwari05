@@ -2,7 +2,7 @@
 <p align="center">Welcome to my <b>Crazy-Code-Corner 🖤</b>,</p>
 <p align="center">where you will find some Coffee-Code-Chaos ☕️</b>.</p>
 
-I am **Ananya Tiwari**, a developing developer 🎀, who spends equal amounts of time in coding and questiong **"why is it not working??"** 
+I am **Ananya Tiwari**, a ***developing developer*** 🎀, who spends equal amounts of time in coding and questiong **"why is it not working??"** 
 
 ## What I Do (but probably shouldn't):  
 - Write **brilliant** code that only **I** understand (for about 10 minutes).  

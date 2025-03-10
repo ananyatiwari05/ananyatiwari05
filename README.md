@@ -4,15 +4,17 @@
 
 I am **Ananya Tiwari**, a developing developer 🎀, who spends equal amounts of time in coding and questiong **"why is it not working??"** 
 
-## What I Do/ What no one should Do:  
+## What I Do (but probably shouldn't):  
 - Write **brilliant** code that only **I** understand (for about 10 minutes).  
 - Debug by **staring aggressively** at my screen until the problem fixes itself.  
 
 ## My current Tech-Tools:  
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)  
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)  
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)  
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)  
+![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)  
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)  
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+

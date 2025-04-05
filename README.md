@@ -8,7 +8,7 @@ I am **Ananya Tiwari**, a ***developing developer*** 🎀, who spends equal amou
 - Debug by **staring aggressively** at my screen until the problem fixes itself.  
 
 ## My current Tech-Tools:  
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-direction: row">
    <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
     <div style="font-size: 12px;">Java</div>

@@ -15,7 +15,7 @@
 ---
 
 <!-- Tech Stack Section -->
-<h2><b>Current Tech Tools</b></h2>
+<h2><b>current tech tools</b></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="36"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="36"/>

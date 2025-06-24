@@ -1,5 +1,5 @@
 <!-- Profile ReadMe Start -->
-<h1 align="center">heyo geeks!🧑🏻‍💻,  </br>i'm ananya🥤</h1>
+<h1 align="center">heyo geeks!🧑🏻‍💻,  </br>i'm ananya🩷</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF90BB&center=true&vCenter=true&width=435&lines=developing+developer+☕️;multi-stack+learner+🎧;semi-stable,+slightly+obsessed+🎀" alt="Typing SVG" />
 </p>

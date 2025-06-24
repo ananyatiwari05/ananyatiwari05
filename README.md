@@ -1,23 +1,33 @@
-<h1 align="center"> Hello Geeks!👩🏻‍💻🧑🏻‍💻</h1>
-<p align="center">Welcome to my <b>Crazy-Code-Corner 🖤</b>,</p>
+<!-- Profile ReadMe Start -->
+<h1 align="center">heyo geeks!🧑🏻‍💻,  </br>i'm ananya🥤</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF90BB&center=true&vCenter=true&width=435&lines=developing+developer+☕️;multi-stack+learner+🎧;semi-stable,+slightly+obsessed+🎀" alt="Typing SVG" />
+</p>
 
-I am **Ananya Tiwari**, a ***developing developer*** 🎀, who spends equal amounts of time in coding and questiong **"why is it not working??"** 
+---
+### git about --me
 
-## What I Do (but probably shouldn't):  
-- Write **brilliant** code that only **I** understand (for about 10 minutes).  
-- Debug by **staring aggressively** at my screen until the problem fixes itself.  
+- just a girl sitting in front of a compiler, asking it to behave.👩🏻‍💻🎀  
+- backend, frontend, somewhere in the console — you’ll find me there.💬☔  
+- clean UI, messy brain. it's balanced.✨🤷🏻‍♀️
+- currently in an argument with my terminal. 🎬🔪
 
-## My current Tech-Tools:  
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://dummyimage.com/40x40/ffffff/000000&text=ex" width="40" />
-</div>
+---
+
+<!-- Tech Stack Section -->
+<h2><b>Current Tech Tools</b></h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="36"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/EJS-4F5D95?style=for-the-badge&logo=javascript&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
+</p>
 

@@ -7,10 +7,10 @@
 ---
 ### git about --me
 
-- just a girl sitting in front of a compiler, asking it to behave.👩🏻‍💻🎀  
-- backend, frontend, somewhere in the console — you’ll find me there.💬☔  
-- clean UI, messy brain. it's balanced.✨🤷🏻‍♀️
-- currently in an argument with my terminal. 🎬🔪
+- just a girl asking the compiler to behave.  
+- backend, frontend, somewhere in the console — you’ll find me there.  
+- clean UI, messy code. it's balanced.
+- currently in an argument with my red terminal.
 
 ---
 

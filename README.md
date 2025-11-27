@@ -16,7 +16,6 @@
 <!-- Tech Stack Section -->
 <h2><b>current tech tools</b></h2>
 
-<!-- Programming Languages -->
 <h5>languages</h5>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="32"/>
@@ -49,5 +48,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="32"/>
 </p>
+
+<h5>mobile development</h5>
+<img src="https://img.shields.io/badge/Android_Studio-1DA456?style=for-the-badge&logo=androidstudio&logoColor=white" height="32"/>
+
 
 

@@ -37,7 +37,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="32"/>
- <img src="https://img.shields.io/badge/Android_Studio-1DA456?style=for-the-badge&logo=androidstudio&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Android_Studio-1DA456?style=for-the-badge&logo=androidstudio&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Internet_Computer-3B00B9?style=for-the-badge&logo=internetcomputer&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Motoko-FF6F00?style=for-the-badge&logo=motoko&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="32"/>
 </p>
 
 
